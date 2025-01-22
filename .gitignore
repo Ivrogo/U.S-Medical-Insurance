@@ -1,0 +1,10 @@
+# Ignorar archivos de Jupyter Notebook
+.ipynb_checkpoints/
+# Ignorar datos grandes o temporales
+data/
+*.csv
+*.pkl
+*.h5
+# Ignorar entornos virtuales
+venv/
+env/
